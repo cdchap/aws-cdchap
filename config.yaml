@@ -1,4 +1,4 @@
-baseURL: 'https://cdchap.com/'
+baseURL: 'cdchap.com'
 languageCode: en-us
 title: cdchap
 theme: PaperMod
@@ -37,3 +37,8 @@ outputs:
         - HTML
         - RSS
         - JSON # is necessary
+
+deployment:
+  targets:
+    - name: production
+      URL: s3://cdchap.com?region=us-east-2
