@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://cdchap.com/categories/</loc>
+    <loc>cdchap.com/categories/</loc>
   </url><url>
-    <loc>https://cdchap.com/</loc>
+    <loc>cdchap.com/</loc>
   </url><url>
-    <loc>https://cdchap.com/search/</loc>
+    <loc>cdchap.com/search/</loc>
   </url><url>
-    <loc>https://cdchap.com/tags/</loc>
+    <loc>cdchap.com/tags/</loc>
   </url>
 </urlset>

@@ -1,4 +1,4 @@
-baseURL: 'cdchap.com'
+baseURL: 'http://cdchap.com/'
 languageCode: en-us
 title: cdchap
 theme: PaperMod
