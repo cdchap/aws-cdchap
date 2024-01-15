@@ -26,6 +26,7 @@ params:
         Title: It's a blog 😳 
         Content: A blog where the author learns various technologies, and then writes about it.
 
+    ShowCodeCopyButtons: true
     socialIcons: # optional
       - name: "github"
         url: "<link>"
