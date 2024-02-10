@@ -2,6 +2,11 @@
 title: 'Resume Job Desc Comparison With OpenAI'
 date: 2024-02-10T09:45:15-06:00
 draft: false
+tags:
+- aws
+- openai
+categories:
+- cloud
 ---
 ## Preamble
 
