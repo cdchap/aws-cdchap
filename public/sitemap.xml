@@ -2,7 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://cdchap.com/tags/aws/</loc>
+    <lastmod>2024-02-10T09:45:15-06:00</lastmod>
+  </url><url>
+    <loc>http://cdchap.com/categories/</loc>
+    <lastmod>2024-02-10T09:45:15-06:00</lastmod>
+  </url><url>
     <loc>http://cdchap.com/</loc>
+    <lastmod>2024-02-10T09:45:15-06:00</lastmod>
+  </url><url>
+    <loc>http://cdchap.com/categories/cloud/</loc>
+    <lastmod>2024-02-10T09:45:15-06:00</lastmod>
+  </url><url>
+    <loc>http://cdchap.com/tags/openai/</loc>
     <lastmod>2024-02-10T09:45:15-06:00</lastmod>
   </url><url>
     <loc>http://cdchap.com/posts/</loc>
@@ -11,10 +23,9 @@
     <loc>http://cdchap.com/posts/resume-job-desc-comparison-with-openai/</loc>
     <lastmod>2024-02-10T09:45:15-06:00</lastmod>
   </url><url>
-    <loc>http://cdchap.com/categories/</loc>
+    <loc>http://cdchap.com/tags/</loc>
+    <lastmod>2024-02-10T09:45:15-06:00</lastmod>
   </url><url>
     <loc>http://cdchap.com/search/</loc>
-  </url><url>
-    <loc>http://cdchap.com/tags/</loc>
   </url>
 </urlset>
