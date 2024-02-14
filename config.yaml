@@ -33,6 +33,10 @@ params:
       - name: "mastodon"
         url: "<link2>"
 
+    ShowReadingTime: true
+    ShowPostNavLinks: true
+    showtoc: true
+  
 outputs:
     home:
         - HTML

@@ -302,26 +302,41 @@ import os
 from openai import OpenAI
 
 def lambda_handler(event, context):
-    os.environ.get('OPENAI_AI_KEY')
+ 
+    api_key = os.environ.get('OPENAI_AI_KEY')
+    
     client = OpenAI()
-    completion = client.chat.completions.create(
-    model="gpt-3.5-turbo",
-    messages=[
-        {
-            "role": "system",
-            "content": "You are a helpfule recruiter providing feed back to people submitting resumes and job descriptions to find out if they are suitable for a position",
-        },
-        {
-            "role": "user",
-            "content": f"Pleae read {event['resume']} and {event['jobDesc']}. Respond with some detail about why or why not the candidate may be suitable for the role.",
-        },
-		],
-	)
-   
-    return {
-        'statusCode': 200,
-        'body': completion.choices[0].message.content
-    }
+    
+    try:
+        system_message = f"You are a helpful assistant specialized in {event['jobDesc']}."
+        messages = [
+                {
+                    "role": "system", 
+                    "content": system_message,
+                },
+                {
+                    "role": "user",
+                    "content": f"Is this resume suitable for the job? Job description: {event['jobDesc']}, Resume: {event['resume']}",
+                },
+            ]
+        completion = client.chat.completions.create(
+        model="gpt-3.5-turbo",
+        messages = messages
+        )
+        
+        response = completion.choices[0].message.content
+        
+        return {
+            'statusCode': 200,
+            'body': response
+        }
+    except Exception as e:
+        error_message = str(e)
+        
+        return {
+            'statusCode': 200,
+            'body': json.dumps({"Error": error_message}) 
+        }
 ```
 
 
