@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>aws on cdchap</title>
-    <link>http://cdchap.com/tags/aws/</link>
+    <link>https://www.cdchap.com/tags/aws/</link>
     <description>Recent content in aws on cdchap</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Feb 2024 09:45:15 -0600</lastBuildDate><atom:link href="http://cdchap.com/tags/aws/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 10 Feb 2024 09:45:15 -0600</lastBuildDate><atom:link href="https://www.cdchap.com/tags/aws/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Resume Job Desc Comparison With OpenAI</title>
-      <link>http://cdchap.com/posts/resume-job-desc-comparison-with-openai/</link>
+      <link>https://www.cdchap.com/posts/resume-job-desc-comparison-with-openai/</link>
       <pubDate>Sat, 10 Feb 2024 09:45:15 -0600</pubDate>
       
-      <guid>http://cdchap.com/posts/resume-job-desc-comparison-with-openai/</guid>
+      <guid>https://www.cdchap.com/posts/resume-job-desc-comparison-with-openai/</guid>
       <description>Preamble The objective of this project was to use provide a job description and resume to the OpenAI API. The API would then return a short paragraph stating whether the resume was suitable for the job. To accomplish this, a single webpage was created that makes a request to an AWS Lambda function which processes the request and returns OpenAI&amp;rsquo;s response.
 For brevity the code examples that follow will only contain code necessary to explain the concept being discussed.</description>
     </item>

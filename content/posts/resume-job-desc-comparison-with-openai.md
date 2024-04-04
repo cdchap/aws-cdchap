@@ -10,7 +10,7 @@ categories:
 ---
 ## Preamble
 
-The objective of this project was to use provide a job description and resume to the [OpenAI API](https://platform.openai.com/docs/overview). The API would then return a short paragraph stating whether the resume was suitable for the job. To accomplish this, a single webpage was created that makes a request to an [AWS Lambda function](https://aws.amazon.com/pm/lambda/) which processes the request and returns OpenAI's response.
+The objective of this project was to provide a job description and resume to the [OpenAI API](https://platform.openai.com/docs/overview). The API would then return a short paragraph stating whether the resume was suitable for the job. To accomplish this, a single webpage was created that makes a request to an [AWS Lambda function](https://aws.amazon.com/pm/lambda/) which processes the request and returns OpenAI's response.
 
 For brevity the code examples that follow will only contain code necessary to explain the concept being discussed. When available, relevant links to documentation, or helpful articles will be provided.
 
