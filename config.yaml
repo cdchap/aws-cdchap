@@ -47,3 +47,15 @@ deployment:
   targets:
     - name: production
       URL: s3://cdchap.com?region=us-east-2
+
+ignoreFiles:
+  - \.qmd$
+  - \.ipynb$
+  - \.py$
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+

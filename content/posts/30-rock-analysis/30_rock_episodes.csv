@@ -1,0 +1,139 @@
+season,episode_num_in_season,episode_num_overall,title,directed_by,written_by,original_air_date,prod_code,us_viewers
+1,1,1,Pilot,Adam Bernstein,Tina Fey,2006-10-11,101,8100000.0
+1,2,2,The Aftermath,Adam Bernstein,Tina Fey,2006-10-18,102,5700000.0
+1,3,3,Blind Date,Adam Bernstein,John Riggi,2006-10-25,103,6000000.0
+1,4,4,Jack the Writer,Gail Mancuso,Robert Carlock,2006-11-01,104,4600000.0
+1,5,5,Jack-Tor,Don Scardino,Robert Carlock,2006-11-16,107,5200000.0
+1,6,6,Jack Meets Dennis,Juan J. Campanella,Jack Burditt,2006-11-30,105,6000000.0
+1,7,7,Tracy Does Conan,Adam Bernstein,Tina Fey,2006-12-07,108,6800000.0
+1,8,8,The Break-Up,Scott Ellis,Dave Finkel & Brett Baer,2006-12-14,109,5900000.0
+1,9,9,The Baby Show,Michael Engler,Jack Burditt,2007-01-04,110,5900000.0
+1,10,10,The Rural Juror,Beth McCarthy,Matt Hubbard,2007-01-11,111,6100000.0
+1,11,11,The Head and the Hair,Gail Mancuso,Tina Fey & John Riggi,2007-01-18,112,5000000.0
+1,12,12,Black Tie,Don Scardino,Kay Cannon & Tina Fey,2007-02-01,113,5700000.0
+1,13,13,Up All Night,Michael Engler,Tina Fey,2007-02-08,114,5200000.0
+1,14,14,The C Word,Adam Bernstein,Tina Fey,2007-02-15,106,5000000.0
+1,15,15,Hard Ball,Don Scardino,Matt Hubbard,2007-02-22,115,4600000.0
+1,16,16,The Source Awards,Don Scardino,Robert Carlock & Daisy Gardner,2007-03-01,116,5700000.0
+1,17,17,The Fighting Irish,Dennie Gordon,Jack Burditt,2007-03-08,117,5200000.0
+1,18,18,Fireworks,Beth McCarthy,Dave Finkel & Brett Baer,2007-04-05,118,5400000.0
+1,19,19,Corporate Crush,Don Scardino,John Riggi,2007-04-12,119,5100000.0
+1,20,20,Cleveland,Paul Feig,Jack Burditt & Robert Carlock,2007-04-19,120,5200000.0
+1,21,21,Hiatus,Don Scardino,Tina Fey,2007-04-26,121,4700000.0
+2,1,22,SeinfeldVision,Don Scardino,Tina Fey,2007-10-04,201,7300000.0
+2,2,23,Jack Gets in the Game,Michael Engler,Robert Carlock,2007-10-11,202,6600000.0
+2,3,24,The Collection,Don Scardino,Matt Hubbard,2007-10-18,203,6200000.0
+2,4,25,Rosemary's Baby,Michael Engler,Jack Burditt,2007-10-25,204,6500000.0
+2,5,26,Greenzo,Don Scardino,Jon Pollack,2007-11-08,205,6600000.0
+2,6,27,Somebody to Love,Beth McCarthy,Tina Fey & Kay Cannon,2007-11-15,206,6400000.0
+2,7,28,Cougars,Michael Engler,John Riggi,2007-11-29,207,5800000.0
+2,8,29,Secrets and Lies,Michael Engler,Ron Weiner,2007-12-06,208,5800000.0
+2,9,30,Ludachristmas,Don Scardino,Tami Sagher,2007-12-13,209,5600000.0
+2,10,31,Episode 210,Richard Shepard,Robert Carlock & Donald Glover,2008-01-10,210,6000000.0
+2,11,32,MILF Island,Kevin Rodney Sullivan,Tina Fey & Matt Hubbard,2008-04-10,212,5700000.0
+2,12,33,Subway Hero,Don Scardino,Jack Burditt & Robert Carlock,2008-04-17,211,6400000.0
+2,13,34,Succession,Gail Mancuso,Andrew Guest & John Riggi,2008-04-24,213,5500000.0
+2,14,35,Sandwich Day,Don Scardino,Robert Carlock & Jack Burditt,2008-05-01,214,5400000.0
+2,15,36,Cooter,Don Scardino,Tina Fey,2008-05-08,215,5600000.0
+3,1,37,Do-Over,Don Scardino,Tina Fey,2008-10-30,301,8700000.0
+3,2,38,Believe in the Stars,Don Scardino,Robert Carlock,2008-11-06,302,8000000.0
+3,3,39,The One with the Cast of 'Night Court',Gail Mancuso,Jack Burditt,2008-11-13,303,7500000.0
+3,4,40,Gavin Volure,Gail Mancuso,John Riggi,2008-11-20,304,7300000.0
+3,5,41,Reunion,Beth McCarthy,Matt Hubbard,2008-12-04,305,7100000.0
+3,6,42,Christmas Special,Don Scardino,Kay Cannon & Tina Fey,2008-12-11,306,8900000.0
+3,7,43,Señor Macho Solo,Beth McCarthy,Ron Weiner,2009-01-08,307,5400000.0
+3,8,44,Flu Shot,Don Scardino,Jon Pollack,2009-01-15,308,6600000.0
+3,9,45,Retreat to Move Forward,Steve Buscemi,Tami Sagher,2009-01-22,309,6400000.0
+3,10,46,Generalissimo,Todd Holland,Robert Carlock,2009-02-05,310,6400000.0
+3,11,47,St. Valentine's Day,Don Scardino,Jack Burditt & Tina Fey,2009-02-12,311,7600000.0
+3,12,48,Larry King,Constantine Makris,Matt Hubbard,2009-02-26,312,6400000.0
+3,13,49,"Goodbye, My Friend",John Riggi,Ron Weiner,2009-03-05,313,7300000.0
+3,14,50,The Funcooker,Ken Whittingham,Donald Glover & Tom Ceraulo,2009-03-12,314,6400000.0
+3,15,51,The Bubble,Tricia Brock,Tina Fey,2009-03-19,315,7100000.0
+3,16,52,"Apollo, Apollo",Millicent Shelton,Robert Carlock,2009-03-26,316,7200000.0
+3,17,53,Cutbacks,Gail Mancuso,Matt Hubbard,2009-04-09,317,6800000.0
+3,18,54,Jackie Jormp-Jomp,Don Scardino,Kay Cannon & Tracey Wigfield,2009-04-16,318,7300000.0
+3,19,55,The Ones,Beth McCarthy,Jack Burditt,2009-04-23,319,6300000.0
+3,20,56,The Natural Order,Scott Ellis,John Riggi & Tina Fey,2009-04-30,320,6000000.0
+3,21,57,Mamma Mia,Don Scardino,Ron Weiner,2009-05-07,321,6200000.0
+3,22,58,Kidney Now!,Don Scardino,Jack Burditt & Robert Carlock,2009-05-14,322,5700000.0
+4,1,59,Season 4,Don Scardino,Tina Fey,2009-10-15,401,6390000.0
+4,2,60,Into the Crevasse,Beth McCarthy Miller,Robert Carlock,2009-10-22,402,6680000.0
+4,3,61,Stone Mountain,Don Scardino,John Riggi,2009-10-29,403,6010000.0
+4,4,62,Audition Day,Beth McCarthy Miller,Matt Hubbard,2009-11-05,404,6150000.0
+4,5,63,The Problem Solvers,John Riggi,Ron Weiner,2009-11-12,405,6000000.0
+4,6,64,Sun Tea,Gail Mancuso,Josh Siegal & Dylan Morgan,2009-11-19,406,5720000.0
+4,7,65,Dealbreakers Talk Show #0001,Don Scardino,Kay Cannon,2009-12-03,407,6080000.0
+4,8,66,Secret Santa,Beth McCarthy Miller,Tina Fey,2009-12-10,408,6700000.0
+4,9,67,Klaus and Greta,Gail Mancuso,Robert Carlock,2010-01-14,409,5120000.0
+4,10,68,Black Light Attack!,Don Scardino,Steve Hely,2010-01-14,410,5010000.0
+4,11,69,Winter Madness,Beth McCarthy Miller,Vali Chandrasekaran & Tom Ceraulo,2010-01-21,411,5580000.0
+4,12,70,Verna,Don Scardino,Ron Weiner,2010-02-04,412,5790000.0
+4,13,71,Anna Howard Shaw Day,Ken Whittingham,Matt Hubbard,2010-02-11,413,6000000.0
+4,14,72,Future Husband,Don Scardino,Tracey Wigfield & Jon Haller,2010-03-11,414,5890000.0
+4,15,73,"Don Geiss, America and Hope",Stephen Lee Davis,Jack Burditt & Tracey Wigfield,2010-03-18,415,6790000.0
+4,16,74,Floyd,Millicent Shelton,Paula Pell,2010-03-25,416,6250000.0
+4,17,75,Lee Marvin vs. Derek Jeter,Don Scardino,Kay Cannon & Tina Fey,2010-04-22,417,4000000.0
+4,18,76,Khonani,Beth McCarthy Miller,Vali Chandrasekaran,2010-04-22,418,5160000.0
+4,19,77,Argus,Jeff Richmond,"Josh Siegal, Dylan Morgan & Paula Pell",2010-04-29,419,5440000.0
+4,20,78,The Moms,John Riggi,Kay Cannon & Robert Carlock,2010-05-06,420,5420000.0
+4,21,79,Emanuelle Goes to Dinosaur Land,Beth McCarthy Miller,Matt Hubbard,2010-05-13,421,4960000.0
+4,22,80,I Do Do,Don Scardino,Tina Fey,2010-05-20,422,5450000.0
+5,1,81,The Fabian Strategy,Beth McCarthy-Miller,Tina Fey,2010-09-23,501,5850000.0
+5,2,82,"When It Rains, It Pours",Don Scardino,Robert Carlock,2010-09-30,502,5680000.0
+5,3,83,Let's Stay Together,John Riggi,Jack Burditt,2010-10-07,503,4900000.0
+5,4,84,Live Show,Beth McCarthy-Miller,Robert Carlock & Tina Fey,2010-10-14,504,6700000.0
+5,5,85,Reaganing,Todd Holland,Matt Hubbard,2010-10-21,505,5180000.0
+5,6,86,Gentleman's Intermission,Don Scardino,John Riggi,2010-11-04,506,5310000.0
+5,7,87,Brooklyn Without Limits,Michael Engler,Ron Weiner,2010-11-11,507,5090000.0
+5,8,88,College,Don Scardino,Josh Siegal & Dylan Morgan,2010-11-18,508,5110000.0
+5,9,89,Chain Reaction of Mental Anguish,Ken Whittingham,Kay Cannon,2010-12-02,509,5030000.0
+5,10,90,Christmas Attack Zone,John Riggi,Tracey Wigfield,2010-12-09,510,4760000.0
+5,11,91,Mrs. Donaghy,Tricia Brock,Jack Burditt,2011-01-20,511,5340000.0
+5,12,92,Operation Righteous Cowboy Lightning,Beth McCarthy-Miller,Robert Carlock,2011-01-27,512,4920000.0
+5,13,93,¡Qué Sorpresa!,John Riggi,Matt Hubbard,2011-02-03,513,4780000.0
+5,14,94,Double-Edged Sword,Don Scardino,Kay Cannon & Tom Ceraulo,2011-02-10,514,4590000.0
+5,15,95,It's Never Too Late for Now,John Riggi,Vali Chandrasekaran,2011-02-17,515,4070000.0000000005
+5,16,96,TGS Hates Women,Beth McCarthy-Miller,Ron Weiner,2011-02-24,516,4500000.0
+5,17,97,Queen of Jordan,Ken Whittingham,Tracey Wigfield,2011-03-17,517,4190000.0000000005
+5,18,98,Plan B,Jeff Richmond,Josh Siegal & Dylan Morgan,2011-03-24,518,4360000.0
+5,19,99,I Heart Connecticut,Stephen Lee Davis,Vali Chandrasekaran & Jon Haller,2011-04-14,519,4450000.0
+5,20,100,100: Part 1,Don Scardino,Jack Burditt & Robert Carlock & Tina Fey,2011-04-21,520,4600000.0
+5,21,101,100: Part 2,Don Scardino,Jack Burditt & Robert Carlock & Tina Fey,2011-04-21,521,4600000.0
+5,22,102,Everything Sunny All the Time Always,John Riggi,Kay Cannon & Matt Hubbard,2011-04-28,522,3950000.0
+5,23,103,Respawn,Don Scardino,Hannibal Buress & Ron Weiner,2011-05-05,523,4200000.0
+6,1,104,Dance Like Nobody's Watching,John Riggi,Tina Fey & Tracey Wigfield,2012-01-12,601,4470000.0
+6,2,105,Idiots Are People Two!,Beth McCarthy-Miller,Robert Carlock,2012-01-19,602,4050000.0
+6,3,106,Idiots Are People Three!,Beth McCarthy-Miller,Robert Carlock,2012-01-26,603,3820000.0
+6,4,107,The Ballad of Kenneth Parcell,Jeff Richmond,Matt Hubbard,2012-01-26,604,3980000.0
+6,5,108,Today You Are a Man,Jeff Richmond,Ron Weiner,2012-02-02,605,3230000.0
+6,6,109,"Hey, Baby, What's Wrong?: Part 1",Michael Engler,Kay Cannon,2012-02-09,606,3880000.0
+6,7,110,"Hey, Baby, What's Wrong?: Part 2",Michael Engler,Kay Cannon,2012-02-09,607,3880000.0
+6,8,111,The Tuxedo Begins,John Riggi,Dylan Morgan & Josh Siegal,2012-02-16,608,3590000.0
+6,9,112,Leap Day,Steve Buscemi,Luke Del Tredici,2012-02-23,609,3700000.0
+6,10,113,Alexis Goodlooking and the Case of the Missing Whisky,Michael Slovis,John Riggi,2012-03-01,610,3770000.0
+6,11,114,Standards and Practices,Beth McCarthy-Miller,Vali Chandrasekaran,2012-03-08,611,3420000.0
+6,12,115,St. Patrick's Day,John Riggi,Colleen McGuinness,2012-03-15,612,4000000.0
+6,13,116,Grandmentor,Beth McCarthy-Miller,Sam Means,2012-03-22,613,3310000.0
+6,14,117,Kidnapped by Danger,Claire Cowperthwaite,Tina Fey,2012-03-22,614,3420000.0
+6,15,118,The Shower Principle,Stephen Lee Davis,Tom Ceraulo,2012-03-29,615,3140000.0
+6,16,119,Nothing Left to Lose,John Riggi,Lauren Gurganous & Nina Pedrad,2012-04-05,616,2790000.0
+6,17,120,Meet the Woggels!,Linda Mendoza,Ron Weiner,2012-04-12,617,2980000.0
+6,18,121,Murphy Brown Lied to Us,John Riggi,Robert Carlock & Vali Chandrasekaran,2012-04-19,618,3060000.0
+6,19,122,Live from Studio 6H,Beth McCarthy Miller,Jack Burditt & Tina Fey,2012-04-26,619,3470000.0
+6,20,123,Queen of Jordan 2: The Mystery of the Phantom Pooper,Ken Whittingham,Luke Del Tredici & Tracey Wigfield,2012-05-03,620,3040000.0
+6,21,124,The Return of Avery Jessup,John Riggi,Dylan Morgan & Josh Siegal,2012-05-10,621,2920000.0
+6,22,125,What Will Happen to the Gang Next Year?,Michael Engler,Matt Hubbard,2012-05-17,622,2840000.0
+7,1,126,The Beginning of the End,Don Scardino,Jack Burditt,2012-10-04,701,3460000.0
+7,2,127,Governor Dunston,Robert Carlock,Robert Carlock,2012-10-11,702,3400000.0
+7,3,128,Stride of Pride,Michael Engler,Tina Fey,2012-10-18,703,3040000.0
+7,4,129,Unwindulax,James E. Sheridan,Matt Hubbard,2012-10-25,704,3130000.0
+7,5,130,There's No I in America,John Riggi,Josh Siegal & Dylan Morgan,2012-10-31,705,3380000.0
+7,6,131,Aunt Phatso vs. Jack Donaghy,Don Scardino,Luke Del Tredici,2012-11-15,706,3340000.0
+7,7,132,"Mazel Tov, Dummies!",Beth McCarthy-Miller,Tracey Wigfield,2012-11-29,707,3610000.0
+7,8,133,My Whole Life Is Thunder,Linda Mendoza,Jack Burditt & Colleen McGuinness,2012-12-06,708,3220000.0
+7,9,134,Game Over,Ken Whittingham,Robert Carlock & Sam Means,2013-01-10,709,3790000.0
+7,10,135,Florida,Claire Cowperthwaite,Tom Ceraulo & Matt Hubbard,2013-01-17,710,3440000.0
+7,11,136,A Goon's Deed in a Weary World,Jeff Richmond,Lang Fisher & Nina Pedrad,2013-01-24,711,3810000.0
+7,12,137,Hogcock!,Beth McCarthy-Miller,Jack Burditt & Robert Carlock,2013-01-31,712,4880000.0
+7,13,138,Last Lunch,Beth McCarthy-Miller,Tina Fey & Tracey Wigfield,2013-01-31,713,4880000.0

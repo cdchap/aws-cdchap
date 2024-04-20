@@ -5,7 +5,7 @@ draft: false
 tags:
 - football
 categories:
-- 'data analysis'
+- data analysis
 ---
 
 **TLDR:**

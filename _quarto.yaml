@@ -1,0 +1,8 @@
+project:
+  type: hugo
+      
+format: 
+  hugo-md
+  
+execute: 
+  warning: false
